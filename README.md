@@ -5,4 +5,4 @@
 
 题号 | 说明 | 解题语言 | 难易程序
  :-: | :-: | :-: | :-:
-876 | [链表的中间节点](./simple/hello.md) | <font color=red>**c python Go**</font> | <font color=green>**Simple**</font>
+876 | [链表的中间节点](./simple/876.md) | <font color=red>**c python Go**</font> | <font color=green>**Simple**</font> 
