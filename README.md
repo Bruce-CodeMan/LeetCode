@@ -13,4 +13,4 @@
 876 | [链表的中间节点](./simple/876.md) | <font color=red>**c python Go**</font> | <font color=green>**Simple**</font> 
 26 | [删除有序数组的重复项](./simple/26.md) | <font color=red>**c python Go**</font> | <font color=green>**Simple**</font> 
 283 | [移动零](./simple/283.md) | <font color=red>**c python Go**</font> | <font color=green>**Simple**</font> 
-75 | [颜色分类](./medium/75.md) | <font color=red>**c python Go**</font> | <font color=green>**Simple**</font> 
+75 | [颜色分类](./medium/75.md) | <font color=red>**c python Go**</font> | <font color=green>**Medium**</font> 
