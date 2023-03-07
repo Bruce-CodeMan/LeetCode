@@ -15,4 +15,4 @@
 283 | [移动零](./simple/283.md) | <font color=red>**c python Go**</font> | <font color=green>**Simple**</font> 
 75 | [颜色分类](./medium/75.md) | <font color=red>**c python Go**</font> | <font color=green>**Medium**</font> 
 88 | [合并两个有序数组](./simple/88.md) | <font color=red>**c python Go**</font> | <font color=green>**Simple**</font> 
-148 | [排序链表](./simple/148.md) | <font color=red>**c python Go**</font> | <font color=green>**Medium**</font> 
+148 | [排序链表](./medium/148.md) | <font color=red>**c python Go**</font> | <font color=green>**Medium**</font> 
