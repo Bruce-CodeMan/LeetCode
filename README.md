@@ -17,3 +17,4 @@
 88 | [合并两个有序数组](./simple/88.md) | <font color=red>**c python Go**</font> | <font color=green>**Simple**</font> 
 148 | [排序链表](./medium/148.md) | <font color=red>**c python Go**</font> | <font color=green>**Medium**</font> 
 206 | [反转链表](./simple/206.md) | <font color=red>**c python Go**</font> | <font color=green>**Simple**</font> 
+143 | [重排链表](./medium/143.md) | <font color=red>**c python Go**</font> | <font color=green>**Medium**</font> 
