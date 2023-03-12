@@ -19,3 +19,4 @@
 206 | [反转链表](./simple/206.md) | <font color=red>**c python Go**</font> | <font color=green>**Simple**</font> 
 143 | [重排链表](./medium/143.md) | <font color=red>**c python Go**</font> | <font color=green>**Medium**</font> 
 61 | [旋转链表](./medium/61.md) | <font color=red>**c python Go**</font> | <font color=green>**Medium**</font> 
+24 | [两两交换链表中的节点](./medium/206.md) | <font color=red>**c python Go**</font> | <font color=green>**Medium**</font> 
