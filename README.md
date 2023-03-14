@@ -20,3 +20,4 @@
 143 | [重排链表](./medium/143.md) | <font color=red>**c python Go**</font> | <font color=green>**Medium**</font> 
 61 | [旋转链表](./medium/61.md) | <font color=red>**c python Go**</font> | <font color=green>**Medium**</font> 
 24 | [两两交换链表中的节点](./medium/206.md) | <font color=red>**c python Go**</font> | <font color=green>**Medium**</font> 
+23 | [合并K个升序链表](./difficult/23.md) | <font color=red>**c python Go**</font> | <font color=green>**Difficult**</font> 
